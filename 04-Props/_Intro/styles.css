@@ -37,3 +37,17 @@ body {
 p {
   font-family: 'San-serif';
 }
+
+.btn {
+  padding: 10px 20px;
+  background-color: orangered;
+  color: white;
+}
+
+.red {
+  color: red;
+}
+
+.black {
+  color: black;
+}
